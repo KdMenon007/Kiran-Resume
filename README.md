@@ -9,7 +9,7 @@ GitHub: github.com/KdMenon007 | Medium: medium.com/@kiranmenon16
 
 ## PROFESSIONAL SUMMARY
 
-Cybersecurity Professional with **3.4 years of Enterprise SOC experience** in security monitoring, incident response, threat hunting, malware analysis, phishing investigation, detection engineering, vulnerability management, threat intelligence, and digital forensics. Experienced in working with enterprise **SIEM, EDR, SOAR, network security, email security, and DFIR** technologies. Hands-on experience with FortiSIEM, Splunk, ArcSight, ELK, SentinelOne, Elastic Defend, Cortex XSOAR, Nessus, Wireshark, Zeek, Brim, NetworkMiner, Autopsy, KAPE, Volatility, Velociraptor, and Redline. Strong understanding of MITRE ATT&CK, IOC analysis, log correlation, detection use cases, incident-response lifecycle, and proactive threat hunting.
+Cybersecurity Professional with **3.3 years of Enterprise SOC experience** in security monitoring, incident response, threat hunting, malware analysis, phishing investigation, detection engineering, vulnerability management, threat intelligence, and digital forensics. Experienced in working with enterprise **SIEM, EDR, SOAR, network security, email security, and DFIR** technologies. Hands-on experience with FortiSIEM, Splunk, ArcSight, ELK, SentinelOne, Elastic Defend, Cortex XSOAR, Nessus, Wireshark, Zeek, Brim, NetworkMiner, Autopsy, KAPE, Volatility, Velociraptor, and Redline. Strong understanding of MITRE ATT&CK, IOC analysis, log correlation, detection use cases, incident-response lifecycle, and proactive threat hunting.
 
 ---
 
